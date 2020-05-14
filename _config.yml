@@ -1,4 +1,4 @@
 theme: jekyll-theme-hacker
 title: Very basic jQuery for Koha
 description: On May 21, 2020, I'll be doing an online training session for [koha-us](http://www.koha-us.org) on very basic jQuery for use in the Koha open source integrated library system.
-show_downloads: false
+show_downloads: "false"
