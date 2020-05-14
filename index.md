@@ -1,8 +1,8 @@
 # Very basic jQuery
 
-## What is jQuery?
-
 ## How does jQuery relate to Koha?
+
+## What is jQuery?
 
 ## How do I change the name of a label?
 
