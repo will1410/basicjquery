@@ -1,4 +1,5 @@
-# Very basic jQuery
+Very basic jQuery
+=================
 
 
 ## How does jQuery relate to Koha?
