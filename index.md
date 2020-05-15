@@ -8,7 +8,8 @@ Koha has 4 system preferences that allow users to add JavaScript and jQuery to t
 
 ## What is jQuery?
 
-jQuery is a JavaScript library.  //
+jQuery is a JavaScript library.  
+
 
 
 ### OK.  What's a JavaScript library?
