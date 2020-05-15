@@ -1,12 +1,15 @@
 # Very basic jQuery
 
+
 ## How does jQuery relate to Koha?
 
 Koha has 4 system preferences that allow users to add JavaScript and jQuery to the OPAC, the staff client, the self-check-out system, and the self-check-in system.  Knowing some basic jQuery will allow you to make some changes to the appearance and operation of these components of Koha.
 
+
 ## What is jQuery?
 
 jQuery is a JavaScript library.
+
 
 ### OK.  What's a JavaScript library?
 
@@ -26,11 +29,13 @@ _("selector")_ replaces _document.getElementById("selector")_
 
 _.hide()_ replaces _.style.display = "none";_
 
+
 ## The basic elements of a piece of jQuery
 
 All jQuery statements should start with dollar sign and end with a semicolon.  Then you'll need a pair of parentheses that includes a selector in quotes.
 
-  ## What is a selector?
+
+## What is a selector?
 
 ## How do I change the name of a label?
 
