@@ -12,15 +12,15 @@ jQuery is a JavaScript library.
 
 In this context, a *library* is a set of pre-defined functions that can be accessed through a short-hand or abbreviated process.  For example, in JavaScript, the code needed to hide an element would look something like this:
 
-~~~
+~~~ JavaScript
 function hide() {
-document.getElementById("selector").style.display = "none;
+document.getElementById("selector").style.display = "none";
 }
 ~~~
 
 while the same command in jQuery can be achieved with:
 
-~~~
+~~~ JavaScript
 $("selector").hide();
 ~~~
 
