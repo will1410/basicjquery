@@ -8,25 +8,25 @@ Koha has 4 system preferences that allow users to add JavaScript and jQuery to t
 
 jQuery is a JavaScript library.
 
-  ### OK.  What's a JavaScript library?
+### OK.  What's a JavaScript library?
 
-  In this context, a *library* is a set of pre-defined functions that can be accessed through a short-hand or abbreviated process.  For example, in JavaScript, the code needed to hide an element would look something like this:
+In this context, a *library* is a set of pre-defined functions that can be accessed through a short-hand or abbreviated process.  For example, in JavaScript, the code needed to hide an element would look something like this:
 
-  `` JavaScript
+`` JavaScript
 
-  function hide() {
-  document.getElementById("selector").style.display = "none;
-  }
+function hide() {
+document.getElementById("selector").style.display = "none;
+}
 
-  ``
+``
 
-  while the same command in jQuery can be achieved with:
+while the same command in jQuery can be achieved with:
 
-  `` JavaScript
+`` JavaScript
 
-  $("selector").hide();
+$("selector").hide();
 
-  ``
+``
 
 ## The basic elements of a piece of jQuery
 
