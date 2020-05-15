@@ -1,5 +1,4 @@
-Very basic jQuery
-=================
+# Very basic jQuery
 
 
 ## How does jQuery relate to Koha?
@@ -10,8 +9,7 @@ Koha has 4 system preferences that allow users to add JavaScript and jQuery to t
 ## What is jQuery?
 
 jQuery is a JavaScript library.  
-
-
+<br /><br />
 
 ### OK.  What's a JavaScript library?
 
