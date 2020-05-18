@@ -10,7 +10,7 @@ Koha has 4 system preferences that allow users to add JavaScript and jQuery to t
 
 <br /><br />
 
-// TODO: Find those sysprefs
+<!--- // TODO: Find those sysprefs --->
 
 ## What is jQuery?
 
