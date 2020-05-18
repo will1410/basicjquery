@@ -8,18 +8,20 @@ Koha has 4 system preferences that allow users to add JavaScript and jQuery to t
 
 ### Next question - what are those 4 system preferences?
 
-<br /><br />
+IntranetUserJS (adds JavaScript and jQuery to the staff client)
+OPACUserJS (adds JavaScript and jQuery to the OPAC)
+SCOUserJS (adds JavaScript and jQuery to the self-checkout system)
+SelfCheckInUserJS (adds JavaScript and jQuery to the self check-in system)
 
-<!--- // TODO: Find those sysprefs --->
+<br /><br />
 
 ## What is jQuery?
 
 jQuery is a JavaScript library.  
 
-
 ### OK.  What's a JavaScript library?
 
-In this context, a *library* is a set of pre-defined functions that can be accessed through a short-hand or abbreviated process.  For example, in JavaScript, the code needed to hide an element would look something like this:
+In this context, a *library* is a set of pre-defined functions that can be accessed through a short-hand or abbreviated process.  For example, in JavaScript, the code needed to hide an element could look something like this:
 
 ~~~ JavaScript
 document.getElementById("selector").style.display = "none";
@@ -37,13 +39,17 @@ _.hide()_ replaces _.style.display = "none";_
 
 <br /><br />
 
-## The basic elements of a piece of jQuery
+## The basic components of a piece of jQuery
 
-All jQuery statements should start with dollar sign and end with a semicolon.  Then you'll need a pair of parentheses that includes a selector in quotes.
+All jQuery statements should start with dollar sign and end with a semicolon.  Then you'll need a pair of parentheses that includes an html selector in quotes and a jQuery event or effect.
 
-<br /><br />
+### What is a selector?
 
-## What is a selector?
+A selector is an HTML element used by jQuery to tell jQuery which part of the page your code is going to manipulate.
+
+### What is an event or effect?
+
+
 
 <br /><br />
 
