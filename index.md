@@ -29,11 +29,11 @@ The easiest ways to access all of these system preferences at once is to use the
 
 <br /><br /><br /><br />
 
-## What is jQuery?
+## Q: What is jQuery?
 
 jQuery is a JavaScript library.  
 
-### OK.  What's a JavaScript library?
+### Next question - What's a JavaScript library?
 
 In this context, a *library* is a set of pre-defined functions that can be accessed through a short-hand or abbreviated process.  For example, in JavaScript, the code needed to hide an element could look something like this:
 
@@ -49,7 +49,9 @@ $("selector").hide();
 
 _("selector")_ replaces _document.getElementById("selector")_
 
-_.hide()_ replaces _.style.display = "none";_  
+_.hide()_ replaces _.style.display = "none";_
+
+Simplifying the code needed to do something on a page makes it easier to learn how to create the code.
 
 <br /><br />
 
@@ -60,6 +62,10 @@ _.hide()_ replaces _.style.display = "none";_
 ## The basic components of a piece of jQuery
 
 All jQuery statements should start with dollar sign and end with a semicolon.  Then you'll need a pair of parentheses that includes an html selector in quotes and a jQuery event or effect.
+
+~~~ JavaScript
+$ ;
+~~~
 
 ### What is a selector?
 
