@@ -33,7 +33,7 @@ The easiest ways to access all of these system preferences at once is to use the
 
 jQuery is a JavaScript library.  
 
-### Next question - What's a JavaScript library?
+### Q: Followup question - What's a JavaScript library?
 
 In this context, a *library* is a set of pre-defined functions that can be accessed through a short-hand or abbreviated process.  For example, in JavaScript, the code needed to hide an element could look something like this:
 
@@ -62,14 +62,45 @@ Simplifying the code needed to do something on a page makes it easier to learn h
 ## The basic components of a piece of jQuery
 
 All jQuery statements should start with dollar sign and end with a semicolon.  Then you'll need a pair of parentheses that includes an html selector in quotes and a jQuery event or effect.
+Starts with:
 
 ~~~ JavaScript
 $ ;
 ~~~
 
-### What is a selector?
+Selectors are inside of quotes inside of parentheses
 
-A selector is an HTML element used by jQuery to tell jQuery which part of the page your code is going to manipulate.
+~~~JavaScript
+("")
+~~~
+
+Events start with a . and are followed by something in parentheses
+
+~~~JavaScript
+.()
+~~~
+
+Put it all together and you get
+
+~~~JavaScript
+$("").();
+~~~
+
+<br /><br />
+
+### Q: What is a selector?
+
+A selector is a piece of code that tells jQuery which HTML element that jQuery is going to modify.
+
+#### Q: What is an HTML element?
+
+HTML elements are the pieces of a web page built by the HTML tags that tell your browser how to display the page.  Paragraphs begin with a <p> and end with a </p>.  Tables begin with <table> and end with </table>.  Input boxes have an <input> tag, forms have a <form> tag, headings have an <h1>, <h2>, <h3>, <h4>, <h5>, or <h6> tag, and so on and so on.
+
+And any HTML tag can have attributes added to those tags that can help you select them.  Attributes like id, class, name and others.  
+
+### A:  A selector tells jQuery what to modify.
+
+<br /><br />
 
 ### What is an event or effect?
 
