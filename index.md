@@ -80,7 +80,7 @@ Events start with a . and are followed by something in parentheses
 .()
 ~~~
 
-Put it all together and you get
+Put it all together and you get a basic skeleton for a piece of jQuery
 
 ~~~JavaScript
 $("").();
@@ -94,7 +94,7 @@ A selector is a piece of code that tells jQuery which HTML element that jQuery i
 
 #### Q: What is an HTML element?
 
-HTML elements are the pieces of a web page built by the HTML tags that tell your browser how to display the page.  Paragraphs begin with a <p> and end with a </p>.  Tables begin with <table> and end with </table>.  Input boxes have an <input> tag, forms have a <form> tag, headings have an <h1>, <h2>, <h3>, <h4>, <h5>, or <h6> tag, and so on and so on.
+HTML elements are the pieces of a web page built by the HTML tags that tell your browser how to display the page.  Paragraphs begin with a \<p\> and end with a \</p\>.  Tables begin with \<table\> and end with \</table\>.  Input boxes have an \<input\> tag, forms have a \<form\> tag, headings have an \<h1\>, \<h2\>, \<h3\>, \<h4\>, \<h5\>, or \<h6\> tag, and so on and so on.
 
 And any HTML tag can have attributes added to those tags that can help you select them.  Attributes like id, class, name and others.  
 
