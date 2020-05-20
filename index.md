@@ -8,10 +8,10 @@ Koha has 4 system preferences that allow users to add JavaScript and jQuery to t
 
 ### Next question - what are those 4 system preferences?
 
-IntranetUserJS (adds JavaScript and jQuery to the staff client)
-OPACUserJS (adds JavaScript and jQuery to the OPAC)
-SCOUserJS (adds JavaScript and jQuery to the self-checkout system)
-SelfCheckInUserJS (adds JavaScript and jQuery to the self check-in system)
+* IntranetUserJS (adds JavaScript and jQuery to the staff client)
+* OPACUserJS (adds JavaScript and jQuery to the OPAC)
+* SCOUserJS (adds JavaScript and jQuery to the self-checkout system)
+* SelfCheckInUserJS (adds JavaScript and jQuery to the self check-in system)
 
 <br /><br />
 
