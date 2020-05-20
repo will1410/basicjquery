@@ -2,18 +2,32 @@
 
 <br /><br />
 
-## What does jQuery have to do with Koha?
+# Very, very basic jQuery
+
+<br /><br />
+
+# Very, very, very basic jQuery
+
+<br /><br />
+
+## Q: What does jQuery have to do with Koha?
 
 Koha has 4 system preferences that allow users to add JavaScript and jQuery to the OPAC, the staff client, the self-check-out system, and the self-check-in system.  Knowing some basic jQuery will allow you to make some changes to the appearance and operation of these components of Koha.
 
-### Next question - what are those 4 system preferences?
+### Q: Next question - what are those 4 system preferences?
 
 * __*IntranetUserJS*__ (adds JavaScript and jQuery to the staff client)
 * __*OPACUserJS*__ (adds JavaScript and jQuery to the OPAC)
 * __*SCOUserJS*__ (adds JavaScript and jQuery to the self-checkout system)
 * __*SelfCheckInUserJS*__ (adds JavaScript and jQuery to the self check-in system)
 
+The easiest ways to access all of these system preferences at once is to use the "Search system preferences" search box on the system administration page and search for __*UserJS*__
+
 <br /><br />
+
+## A: You can use jQuery to modify the way Koha loooks and operates *without* having to do a development.
+
+<br /><br /><br /><br />
 
 ## What is jQuery?
 
@@ -38,6 +52,10 @@ _("selector")_ replaces _document.getElementById("selector")_
 _.hide()_ replaces _.style.display = "none";_  
 
 <br /><br />
+
+## A: jQuery is simplified JavaScript that anyone can learn.
+
+<br /><br /><br /><br />
 
 ## The basic components of a piece of jQuery
 
