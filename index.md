@@ -31,7 +31,12 @@ The easiest ways to access all of these system preferences at once is to use the
 
 ## Q: What is jQuery?
 
-jQuery is a JavaScript library.  
+jQuery is a JavaScript library.
+
+You can find out all about jQuery at:
+
+[https://jquery.com/](https://jquery.com/){:target="\_blank"}
+[https://www.w3schools.com/jquery/](https://www.w3schools.com/jquery/){:target="\_blank"}
 
 ### Q: Followup question - What's a JavaScript library?
 
