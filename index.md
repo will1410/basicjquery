@@ -132,7 +132,7 @@ You can then click on the "Inspector" to look at the elements in the page.
 
 ## The IntranetUserJS sytsem preferences
 
-The documentation on the Koha wiki at [https://wiki.koha-community.org/wiki/JQuery_Library](https://wiki.koha-community.org/wiki/JQuery_Library) as some possibly out of date information about the need for  "$(document).ready(function() {  });"
+The documentation on the Koha wiki at [https://wiki.koha-community.org/wiki/JQuery_Library](https://wiki.koha-community.org/wiki/JQuery_Library){:target="\_blank"} has information on it about the need for  "$(document).ready(function() {  });"
 
 There are two schools of though on this command.  
 
