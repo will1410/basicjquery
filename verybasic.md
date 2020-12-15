@@ -22,7 +22,7 @@ The rest of the Very, very basic jQuery presentation focused primarily on one of
 
 You can view the Very, very basic jQuery website here: [Very, very basic jQuery](veryverybasic.md){:target="_blank"}
 
-And you can view the accompanying videorecording at: [Very, very basic jQuery Video](https://youtu.be/SqMqM6iRgvg){:target="_blank"}
+And you can view the accompanying videorecording at: [Very, very basic jQuery Video](https://youtu.be/SqMqM6iRgvg?t=0){:target="_blank"}
 
 <br /><br />
 
