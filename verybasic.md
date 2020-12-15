@@ -4,13 +4,17 @@
 
 ## Recap
 
+George Williams: ["About" info](https://slides.hopperdietzel.org/about/){:target="_blank"}
+
 jQuery is a JavaScript library that's used on many webpages.
 
 You can insert jQuery that you write into the Koha system preferences IntranetUserJS, OPACUserJS, SCOUserJS, and SelfCheckInUserJS.
 
+The Koha community Wiki has a jQuery library at: [jQuery library](https://wiki.koha-community.org/wiki/JQuery_Library){:target="_blank"}
+
 A piece of jQuery consists of a selector (which tells jQuery what part of a page to modify) and an action (which tells jQuery what to do to the thing you've selected).
 
-The rest of the Very, very basic jQuery presentation focused on one of the simplest things jQuery can do - hiding elements on the page.
+The rest of the Very, very basic jQuery presentation focused primarily on one of the simplest things jQuery can do - hiding elements on the page.
 
 You can view the Very, very basic jQuery website here: [Very, very basic jQuery](veryverybasic.md){:target="_blank"}
 
