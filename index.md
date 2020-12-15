@@ -1,4 +1,6 @@
-# Very, Very basic jQuery
+# Basic jQuery
+
+## Very, very basic jQuery
 
 [Very, very basic jQuery](veryverybasic.md)
 
@@ -6,7 +8,7 @@ The link above goes with the presentation I did on May 21, 2020.  You can view t
 
 <br /><br />
 
-# Very basic jQuery
+## Very basic jQuery
 
 [Very basic jQuery](verybasic.md)
 
@@ -14,7 +16,7 @@ This presentation will happen on December 15, 2020.
 
 <br /><br />
 
-# Basic jQuery
+## Basic jQuery
 
 Coming in 2021
 
