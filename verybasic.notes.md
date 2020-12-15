@@ -10,6 +10,8 @@ jQuery is a JavaScript library that's used on many webpages.
 
 You can insert jQuery that you write into the Koha system preferences IntranetUserJS, OPACUserJS, SCOUserJS, and SelfCheckInUserJS.
 
+Those system preferences need to be wrapped in $(document).ready(function() { /* jQuery goes here */ });
+
 The Koha community Wiki has a jQuery library at: [jQuery library](https://wiki.koha-community.org/wiki/JQuery_Library){:target="_blank"}
 
 A piece of jQuery consists of a selector (which tells jQuery what part of a page to modify) and an action (which tells jQuery what to do to the thing you've selected).
