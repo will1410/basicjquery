@@ -1,6 +1,6 @@
 theme: jekyll-theme-hacker
-title: Very basic jQuery for Koha
-description: I'll be doing an online training session for koha-US on very basic jQuery for use in the Koha open source integrated library system.
+title: Basic jQuery for Koha
+description: This website goes with the koha-US presentations "Very, very basic jQuery," "Very basic jQuery," and "Basic jQuery (coming soon)"
 show_downloads: false
 permalink: /blog/:year/:month/:day/:title
 author:
