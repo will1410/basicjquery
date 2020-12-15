@@ -24,7 +24,9 @@ And you can view the accompanying videorecording at: [Very, very basic jQuery Vi
 
 So, moving on.
 
-## How do I change a piece of text on a page
+I talked about some things after a good description of hiding things, but I didn't go into a lot of details, so I'm going to back-track to the first thing I learned how to do using jQuery.
+
+## How do I change some text on a page?
 
 The first pieces of jQuery I learned:
 
