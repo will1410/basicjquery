@@ -1,11 +1,11 @@
 # Very Very basic jQuery
 
-{% veryverybasic.md %}
+[Very, very basic jQuery](veryverybasic.md)
 
 <br /><br />
 
 # Very, basic jQuery
 
-{% verybasic.md %}
+[Very basic jQuery](verybasic.md)
 
 <br /><br />
