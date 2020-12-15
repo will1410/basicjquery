@@ -1,6 +1,8 @@
 # Basic jQuery
 
-## Very, very basic jQuery
+This will be a series of online tutorials for Koha users sponsored by koha-US.
+
+## Very, very basic jQuery (part 1)
 
 [Very, very basic jQuery](veryverybasic.md)
 
@@ -8,7 +10,7 @@ The link above goes with the presentation I did on May 21, 2020.  You can view t
 
 <br /><br />
 
-## Very basic jQuery
+## Very basic jQuery (part 2)
 
 [Very basic jQuery](verybasic.md)
 
@@ -16,7 +18,7 @@ This presentation will happen on December 15, 2020.
 
 <br /><br />
 
-## Basic jQuery
+## Basic jQuery (part 3)
 
 Coming in 2021
 
