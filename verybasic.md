@@ -2,11 +2,27 @@
 
 <br /><br />
 
-Recap - website updated
+## Recap
+
+jQuery is a JavaScript library that's used on many webpages.
+
+You can insert jQuery that you write into the Koha system preferences IntranetUserJS, OPACUserJS, SCOUserJS, and SelfCheckInUserJS.
+
+A piece of jQuery consists of a selector (which tells jQuery what part of a page to modify) and an action (which tells jQuery what to do to the thing you've selected).
+
+The rest of the Very, very basic jQuery presentation focused on one of the simplest things jQuery can do - hiding elements on the page.
+
+You can view the Very, very basic jQuery website here: [Very, very basic jQuery](veryverybasic.md){:target="_blank"}
+
+And you can view the accompanying videorecording at: [Very, very basic jQuery Video](https://youtu.be/SqMqM6iRgvg){:target="_blank"}
 
 <br /><br />
 
-## The first pieces of jQuery I learned:
+
+
+## How do I change a piece of text on a page
+
+The first pieces of jQuery I learned:
 
 Changing "Surname" to "Last name"
 
@@ -58,7 +74,7 @@ $("#entryform #surname").blur(function(){
 
 A function like this takes an event and tells jQuery what to do when the event happens.  The "what to do" part usually consists of more jQuery.
 
-Some people are asking "What's blur?"  It's the opposit of focus:
+Some people are asking "What's blur?"  It's the opposite of focus:
 
 ~~~JavaScript
 $("#catalog_results #search-form").focus();
@@ -115,5 +131,7 @@ $('#opac-usersuggestions #title').parent().attr('id','titleinput');
 $('#opac-usersuggestions #itemtype').parent().attr('id','itypedrop');
 $('#itypedrop').insertAfter($('#titleinput'));
 ~~~
+
+
 
 <br /><br />

@@ -192,4 +192,6 @@ $('#main_auth #branch').parent().remove();
 
 <br /><br />
 
-todo addlink to first video
+## videorecording
+
+You can view the videorecording that was created with the live presentation done on May 21, 2020, at: [Very, very basic jQuery Video](https://youtu.be/SqMqM6iRgvg){:target="_blank"}
